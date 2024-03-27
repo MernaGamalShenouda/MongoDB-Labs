@@ -17,7 +17,7 @@ let instructorsArray=[{_id:6,firstName:"noha",lastName:"hesham",
                 age:21,salary:7500,
                 address:{city:"mansoura",street:14,building:3},
                 courses:["js","html5","signalR","expressjs","bootstrap"]}
-		];
+            ];
 
 //Lab1
 //6) a- Insert your own data
